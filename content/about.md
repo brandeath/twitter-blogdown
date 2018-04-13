@@ -1,8 +1,9 @@
----
+hugo_0.19---
 title: About This Site
 date: 2017-04-12
 ---
-
+update:2018-04-13
+This website is forked from Yihui github. Still under construction. 
 This website is automatically built for my personal interest only. The basic ideas:
 
 - Search Twitter messages through predefined keywords using the R package [**rtweet**](https://mkearney.github.io/rtweet/) on Travis CI on a [daily](https://docs.travis-ci.com/user/cron-jobs/) basis;
